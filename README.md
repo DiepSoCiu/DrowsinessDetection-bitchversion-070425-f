@@ -8,6 +8,6 @@ This project detects drowsiness in drivers by analyzing eye closure using Mediap
 
 ## Setup
 1. Clone the repository: git clone https://github.com/DiepSoCiu/DrowsinessDetection-070425-bitchversion-f.git
-2. cd drowsiness_detection
+2. cd DrowsinessDetection-bitchversion-070425-f
 3. pip install -r requirements.txt
 4. python main.py
